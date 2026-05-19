@@ -1,4 +1,4 @@
-# COE546-ML-Project
+# COE546-ML-Project:
 Machine Learning project focused on predicting whether a user session in a food delivery application results in an order placement.
 
 # User Behavior Prediction in Food Delivery Applications
