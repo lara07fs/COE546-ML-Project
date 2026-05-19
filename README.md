@@ -154,7 +154,8 @@ Potential future work includes:
 * Pseudo-labeling
 * Advanced imbalance-aware training strategies
 
----
+## Report
+Full project report: [COE546- Project Report - Snih, Antoun, Ammar.pdf]
 
 ## Author
 
